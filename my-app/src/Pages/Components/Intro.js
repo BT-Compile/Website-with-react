@@ -13,11 +13,11 @@ export default function Intro() {
                 </FadeInSection>
                 <hr />
                 <div>
-                    <p>Welcome to my personal website! My name is Benjamin Trang and I'm an aspiring software engineer and web developer.
-                        I graduated as a Computer Information Systems major from James Madison University.
-                        I'm excited to have you here and share my passion with you. This website is a place for me to
-                        showcase my work (including the very site you are on now), share my thoughts on development,
-                        and connect with other like-minded individuals. As a programmer, I believe that technology
+                    <p> 
+                        Hello! My name is Ben and I am a software engineer and web developer.
+                        I graduated as a Computer Information Systems major from James Madison University in 2023 and
+                        have been coding professionally for three years. I am proficient in C#, .NET, SQL, and WPF applications.
+                        I'm excited to have you here and share my passion with you. As a programmer, I believe that technology
                         has the power to change the world for the better, and I'm committed to using my skills to make a
                         positive impact in the world.
                     </p>

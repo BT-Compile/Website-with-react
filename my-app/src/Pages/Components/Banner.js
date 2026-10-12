@@ -10,7 +10,7 @@ export default function Banner() {
                 <div className="bannertext">
                     <FadeInSection>
                         <h1>B/TCODE</h1>
-                        <p>Web Developer & Software Engineer</p>
+                        <p>Developer & Software Engineer</p>
                     </FadeInSection>
                 </div>
                 <div class="down-arrow"></div>
